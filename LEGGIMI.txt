@@ -1,0 +1,18 @@
+FAMILY FINANCE MOBILE - PUBBLICAZIONE GRATUITA SU GITHUB PAGES
+
+1. Crea un account su github.com (se non ne hai uno).
+2. Crea un nuovo repository, ad esempio family-finance-mobile, impostandolo Public.
+3. Apri il repository > Add file > Upload files e carica TUTTI questi file:
+   index.html, manifest.webmanifest, sw.js, icon-192.png, icon-512.png.
+4. Conferma con Commit changes.
+5. Vai su Settings > Pages > Build and deployment > Deploy from a branch.
+   Seleziona branch main, cartella /(root), poi Save.
+6. Attendi la pubblicazione. Il link sara simile a:
+   https://TUO-USERNAME.github.io/family-finance-mobile/
+7. Apri quel link con Safari su iPhone. Tocca Condividi > Aggiungi alla schermata Home.
+8. Apri l'icona Family Finance e prova a salvare una spesa.
+9. Apri QR Sync, mostra il QR alla webcam del PC in Family Finance Studio V26.
+
+IMPORTANTE: GitHub Pages pubblica il CODICE in modo pubblico, NON le spese che rimangono nel browser del telefono. Non inserire dati personali nel codice HTML. Non cancellare i dati di Safari o l'app senza un backup JSON. Per il funzionamento offline, apri l'app online almeno una volta e verifica che funzioni in modalita aereo. Non caricare sul repository backup delle spese.
+
+Il programma PC FamilyFinanceV26.html rimane separato e non va pubblicato.
